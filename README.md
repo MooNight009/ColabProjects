@@ -1,0 +1,1 @@
+This repository incudes different mini projects I've worked on using Google Colab
