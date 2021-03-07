@@ -2,9 +2,6 @@ This repository incudes different mini projects I've worked on using Google Cola
 
 # Ongoing projects:
 
-- LSTS stock predictions:
-  - Fine tuning hyperparameter
-  - Switching to StateFull
 - Bert:
   - Adding QA layers
 
@@ -14,4 +11,5 @@ This repository incudes different mini projects I've worked on using Google Cola
 - IMDB review text classification
 - Simple NN
 - Simple KNN
+- LSTM Stock Prediction
 
