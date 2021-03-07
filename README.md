@@ -4,6 +4,10 @@ This repository incudes different mini projects I've worked on using Google Cola
 
 - Bert:
   - Adding QA layers
+- Data Science Job Change:
+  - Furthur analysis
+  - Hyper parameter tuning
+  - Test different models
 
 # Done projects:
 
